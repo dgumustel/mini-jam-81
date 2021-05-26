@@ -60,6 +60,7 @@ Mechanics details:
 Stretch goals:
 - Give the baby powerups like lasers (fall down asleep afterwards)
 - Make level 2! Could be the desk of the evil scientist who made you, and his evil plans are strewn about - spill his cup of coffee on them! Could also have a view of an experiment room where they’re keeping the grown up kaifu and you could press buttons to open the doors or feed it, make things choatic! 
+- Add hats! 
 
 Things to learn before game jam starts:
 - 3D modeling and rigging - specifically want leg and arm movement and a push animation
