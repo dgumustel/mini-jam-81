@@ -1,14 +1,12 @@
 # Mini Jam #81
 
-This mini jam's theme is [kaiju](https://en.wikipedia.org/wiki/Kaiju) the Japanese theme that features giant monsters like Godzilla and King Kong. The limitation will be announced when the game jam begins on Thursday, May 27th, 2021, at 9:00PM PDT and we'll be submitting our game when the jam closes at the same time on Sunday, May 30th, 2021. 
+This mini jam's theme is [kaiju](https://en.wikipedia.org/wiki/Kaiju), the Japanese movie and video game genre that features giant monsters like Godzilla and King Kong. The limitation will be announced when the game jam begins on Thursday, May 27th, 2021, at 9:00PM PDT and we'll be submitting our game when the jam closes at the same time on Sunday, May 30th, 2021. 
 
 Team members: Eli Cheung, Derya Gumustel
 
 Find out more here: https://itch.io/jam/mini-jam-81-kaiju
 
 ---
-
-# Competing Ideas
 
 ## Baby Kaiju Destroying City
 
