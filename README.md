@@ -1,6 +1,10 @@
 # Mini Jam #81
 
-This mini jam's theme is [kaiju](https://en.wikipedia.org/wiki/Kaiju), the Japanese movie and video game genre that features giant monsters like Godzilla and King Kong. The limitation will be announced when the game jam begins on Thursday, May 27th, 2021, at 9:00PM PDT and we'll be submitting our game when the jam closes at the same time on Sunday, May 30th, 2021. 
+This mini jam's theme is [kaiju](https://en.wikipedia.org/wiki/Kaiju), the Japanese movie and video game genre that features giant monsters like Godzilla and King Kong. The limitation is Death isn't the end
+
+"This is a more subjective limitation and as such, you may interpret it however you like. Perhaps you keep a part of yourself with every death. Maybe even forgo death itself. The possibilities are endless! Just try something beyond respawning the player when they die." - mini jam 81 page
+
+The game jam begins on Thursday, May 27th, 2021, at 9:00PM PDT and we'll be submitting our game when the jam closes at the same time on Sunday, May 30th, 2021. 
 
 Team members: Eli Cheung, Derya Gumustel
 
